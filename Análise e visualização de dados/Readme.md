@@ -1,16 +1,13 @@
-# Curso de Data Science: Análise e Visualização de Dados
+# Meu Portfólio de Data Science
 
-Bem-vindo ao repositório do curso de Data Science da Alura! Este curso é uma introdução empolgante ao mundo da ciência de dados, onde você aprenderá a analisar e visualizar dados de forma eficaz. Abaixo, destacamos os tópicos principais que serão abordados neste curso.
+Bem-vindo ao meu portfólio de Data Science! Este repositório abriga projetos e análises que desenvolvi como parte do curso de Data Science na Alura. Neste curso, adquiri habilidades valiosas em análise e visualização de dados, e gostaria de compartilhar o que aprendi com você.
 
-## O que você vai aprender:
+## O que você encontrará aqui:
 
-- Entre no emocionante campo da ciência de dados.
-- Explore dados usando Análise Exploratória de Dados.
-- Familiarize-se com os diferentes tipos de variáveis.
-- Compreenda o papel das visualizações, como histogramas e boxplots.
-- Aprenda a importância das visualizações e dê os primeiros passos nelas.
-- Utilize medidas de resumo para descrever dados.
-- Explore dados usando Python com as bibliotecas Pandas, Matplotlib e Seaborn.
+- Projetos e notebooks de Data Science.
+- Análises exploratórias de dados.
+- Visualizações informativas, incluindo histogramas e boxplots.
+- Utilização de Python e bibliotecas como Pandas, Matplotlib e Seaborn.
 
 ## Tópicos das aulas:
 
@@ -67,4 +64,4 @@ Bem-vindo ao repositório do curso de Data Science da Alura! Este curso é uma i
    - Projeto final
    - O que aprendemos?
 
-Junte-se a nós nesta emocionante jornada de aprendizado de Data Science!
+Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado em Data Science!
