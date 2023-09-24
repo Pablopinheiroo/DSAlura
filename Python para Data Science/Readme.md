@@ -19,8 +19,6 @@ Bem-vindo ao meu portfólio de Data Science em Python! Este repositório abriga 
 ## Tópicos do curso
 
 ### 1. Introdução ao Python para Data Science
-- Apresentação do curso.
-- Saudações e boas-vindas.
 - Trabalhando com variáveis em Python.
 - Criando minha primeira função em Python.
 - Comparando linguagens de alto nível e baixo nível.
@@ -29,7 +27,6 @@ Bem-vindo ao meu portfólio de Data Science em Python! Este repositório abriga 
 - O que aprendemos?
 
 ### 2. Parâmetros, Condicionais e Conversão de Tipos
-- Revisão do código da aula anterior.
 - Utilizando funções com parâmetros.
 - Explorando condicionais em Python.
 - Conversão de tipos de dados.
@@ -62,7 +59,6 @@ Bem-vindo ao meu portfólio de Data Science em Python! Este repositório abriga 
 - Criando e personalizando gráficos.
 - Prática: Geração de gráficos com Matplotlib.
 - Explorando a lógica por trás dos gráficos.
-- Conclusão e revisão do curso.
 - O que aprendemos?
 
 ## Como usar
