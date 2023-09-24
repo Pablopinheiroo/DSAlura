@@ -12,8 +12,6 @@ Bem-vindo ao meu portfólio de Data Science! Este repositório abriga projetos e
 ## Tópicos das aulas:
 
 1. **Data Science: Dados e Visualizações**
-   - Introdução
-   - Preparando o ambiente
    - Arquivos do projeto
    - Conhecendo nossos dados e o Pandas
    - Visualizando dados com histogramas e boxplots
